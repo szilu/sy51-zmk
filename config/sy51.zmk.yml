@@ -1,0 +1,8 @@
+file_format: "1"
+id: sy51
+name: Symbion SY-51
+type: shield
+url: https://github.com/szilu/sy51-zmk/
+requires: [pro_micro]
+features:
+  - keys

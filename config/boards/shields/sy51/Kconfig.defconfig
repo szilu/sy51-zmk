@@ -1,0 +1,6 @@
+if SHIELD_SY51
+
+config ZMK_KEYBOARD_NAME
+	default "Symbion SY-51"
+
+endif
